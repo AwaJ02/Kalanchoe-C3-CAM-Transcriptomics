@@ -1,0 +1,67 @@
+"GeneID","Gene_Name","Description","CAM_Function","Significant_timepoints","LP6_higher_timepoints","LP1_higher_timepoints","Mean_log2FC","Maximum_abs_log2FC"
+"KfGene022924-RA",NA,"carbonic anhydrase","Carbonic anhydrase",6,6,0,3.18706821496792,5.57132572820969
+"KfGene000421-RA","CA2","carbonic anhydrase","Carbonic anhydrase",5,5,0,1.76804154849049,3.70041413960917
+"KfGene000508-RA","CA2","carbonic anhydrase","Carbonic anhydrase",5,5,0,1.74967634637477,3.3948332247069
+"KfGene034962-RA","CA2","carbonic anhydrase","Carbonic anhydrase",4,4,0,2.00297877970048,4.42705842513886
+"KfGene034850-RA","CA2","carbonic anhydrase","Carbonic anhydrase",4,4,0,2.25329185695657,3.63641069962001
+"KfGene034852-RA","CA2","carbonic anhydrase","Carbonic anhydrase",4,4,0,1.91491229469337,2.97179275322636
+"KfGene042303-RA","CA2","carbonic anhydrase","Carbonic anhydrase",3,3,0,1.19137928453969,2.48818598794643
+"KfGene042239-RA","CA2","carbonic anhydrase","Carbonic anhydrase",3,3,0,1.00147711416002,1.9866428962113
+"KfGene044640-RA",NA,"carbonic anhydrase","Carbonic anhydrase",3,0,3,-0.956766688190949,1.32189896117143
+"KfGene045078-RA","CAH1","Bifunctional monodehydroascorbate reductase and carbonic anhydrase","Carbonic anhydrase",2,0,2,-0.487191670017496,1.11784945287675
+"KfGene003253-RA",NA,"carbonic anhydrase","Carbonic anhydrase",1,0,1,-0.329001705564888,2.1161076425316
+"KfGene003198-RA",NA,"carbonic anhydrase","Carbonic anhydrase",1,0,1,-0.353537792461164,2.01709456974249
+"KfGene027954-RA",NA,"gamma carbonic anhydrase","Carbonic anhydrase",1,0,1,-0.332320611529187,1.06641131032166
+"KfGene050724-RA",NA,"gamma carbonic anhydrase","Carbonic anhydrase",1,1,0,0.730603914719797,1.05973694496984
+"KfGene060500-RA","CA2","carbonic anhydrase","Carbonic anhydrase",0,0,0,1.29796166183754,2.72921297731501
+"KfGene027970-RA",NA,"gamma carbonic anhydrase","Carbonic anhydrase",0,0,0,-0.13269932809555,1.35062856599547
+"KfGene006082-RA",NA,"gamma carbonic anhydrase","Carbonic anhydrase",0,0,0,-0.600237777928676,0.766540852700694
+"KfGene006088-RA",NA,"gamma carbonic anhydrase","Carbonic anhydrase",0,0,0,-0.265327053067753,0.453642353564554
+"KfGene008398-RA","MDH","Malate dehydrogenase","MDH",6,6,0,4.3513096715975,5.06277268182057
+"KfGene040776-RA",NA,"Malate dehydrogenase","MDH",6,0,6,-1.74493256104796,2.06607510479518
+"KfGene006698-RA",NA,"Malate dehydrogenase","MDH",6,6,0,1.32626942016694,1.72184093759354
+"KfGene001627-RA",NA,"Malate dehydrogenase","MDH",5,5,0,1.29784212586466,2.37037090791259
+"KfGene006766-RA",NA,"Malate dehydrogenase","MDH",5,5,0,1.41154997783309,1.89909672336094
+"KfGene001359-RA",NA,"Malate dehydrogenase","MDH",3,3,0,1.22591062760769,2.46600719355802
+"KfGene042619-RA","MDH","Malate dehydrogenase","MDH",3,0,3,-1.07948655281441,1.86611043307539
+"KfGene042382-RA","MDH","Malate dehydrogenase","MDH",3,0,3,-1.08701789121568,1.7800958678988
+"KfGene000743-RA","MDH","Malate dehydrogenase","MDH",2,0,2,-0.613484659768956,1.47693861050898
+"KfGene004468-RA","NADP-MDH","Malate dehydrogenase","MDH",2,2,0,0.914282363298811,1.28066423670619
+"KfGene004483-RA","NADP-MDH","Malate dehydrogenase","MDH",2,2,0,0.840042102467465,1.08626379013703
+"KfGene052604-RA",NA,"Malate dehydrogenase","MDH",1,0,1,-0.585226678788967,1.14310673577714
+"KfGene028164-RA","MMDH","Malate dehydrogenase","MDH",1,0,1,-0.51108258349685,1.11426544660987
+"KfGene033351-RA","MMDH","Malate dehydrogenase","MDH",1,0,1,-0.564795770257235,1.05212827447731
+"KfGene040808-RA",NA,"Malate dehydrogenase","MDH",0,0,0,-0.154180244502421,2.86711483884647
+"KfGene000690-RA","MDH","Malate dehydrogenase","MDH",0,0,0,-0.540869735656526,0.956150364454867
+"KfGene000744-RA","MDH","Malate dehydrogenase","MDH",0,0,0,-0.486503405866577,0.947753030641343
+"KfGene028142-RA","MMDH","Malate dehydrogenase","MDH",0,0,0,-0.505651199167113,0.927735784647615
+"KfGene048844-RA",NA,"Malate dehydrogenase","MDH",0,0,0,0.0170778452564655,0.826459087220399
+"KfGene048757-RA",NA,"Malate dehydrogenase","MDH",0,0,0,0.00523852790796568,0.638527669248064
+"KfGene002819-RA",NA,"Malic enzyme","Malic enzyme",6,6,0,2.89897262530735,4.03469037888822
+"KfGene002788-RA",NA,"Malic enzyme","Malic enzyme",6,6,0,2.49319673769028,2.97601495937799
+"KfGene026994-RA","MEN","Malic enzyme","Malic enzyme",6,0,6,-2.27529664190427,2.83375963928965
+"KfGene020112-RA","MEN","Malic enzyme","Malic enzyme",5,4,1,1.98798245257476,4.57778051770862
+"KfGene009143-RA",NA,"Malic enzyme","Malic enzyme",5,5,0,1.24121567497639,1.75825704625951
+"KfGene009128-RA",NA,"Malic enzyme","Malic enzyme",4,4,0,1.10229625805823,1.43645457886506
+"KfGene039498-RA",NA,"Malic enzyme","Malic enzyme",4,4,0,1.00881152321704,1.39047974605857
+"KfGene039528-RA",NA,"Malic enzyme","Malic enzyme",3,3,0,0.892302795650336,1.11546084341588
+"KfGene022037-RA","MEN","Malic enzyme","Malic enzyme",2,0,2,-0.813529744244936,1.7813704111915
+"KfGene001731-RA",NA,"Malic enzyme","Malic enzyme",2,0,2,-0.843880277102934,1.14966371939621
+"KfGene036811-RA","MEN","Malic enzyme","Malic enzyme",1,1,0,0.352126866044376,1.75100486075873
+"KfGene022063-RA","MEN","Malic enzyme","Malic enzyme",1,0,1,-0.700701896893227,1.68102528119741
+"KfGene036812-RA","MEN","Malic enzyme","Malic enzyme",0,0,0,1.40662954884248,2.91259246780278
+"KfGene053591-RA","MEN","Malic enzyme","Malic enzyme",0,0,0,1.0412244796256,2.57008064634177
+"KfGene036827-RA","MEN","Malic enzyme","Malic enzyme",0,0,0,0.0255661152694453,1.89228044659023
+"KfGene043251-RA",NA,"Malic enzyme","Malic enzyme",0,0,0,-0.466848740039455,0.99244344437979
+"KfGene043228-RA",NA,"Malic enzyme","Malic enzyme",0,0,0,-0.383895442067204,0.817777392027576
+"KfGene037909-RA",NA,"phosphoenolpyruvate carboxylase","PEPC",4,0,4,-1.48511641920638,2.70975867082312
+"KfGene037945-RA",NA,"phosphoenolpyruvate carboxylase","PEPC",1,0,1,-1.54101912707923,3.54691718467843
+"KfGene029266-RA",NA,"phosphoenolpyruvate carboxylase kinase","PPCK",4,0,4,-2.14562117441297,7.10938277743257
+"KfGene049172-RA",NA,"phosphoenolpyruvate carboxylase kinase","PPCK",4,4,0,3.52687788524635,6.20890387067809
+"KfGene052627-RA","PPCK1","phosphoenolpyruvate carboxylase kinase","PPCK",4,2,2,-0.125466113539831,4.00238008467294
+"KfGene049262-RA",NA,"phosphoenolpyruvate carboxylase kinase","PPCK",3,3,0,2.84790357513827,5.90674597684114
+"KfGene059295-RA","PPCK1","phosphoenolpyruvate carboxylase kinase","PPCK",2,1,1,0.15520535011242,5.43703878669985
+"KfGene036760-RA",NA,"phosphoenolpyruvate carboxylase kinase","PPCK",2,0,2,-1.85337868225162,3.66804065362827
+"KfGene006700-RA","PPCK1","phosphoenolpyruvate carboxylase kinase","PPCK",1,1,0,-0.633495411123436,2.93740250248038
+"KfGene006769-RA","PPCK1","phosphoenolpyruvate carboxylase kinase","PPCK",0,0,0,0.529417032844327,1.62929247560051
+"KfGene007051-RA","PPDK","Pyruvate phosphate dikinase","PPDK",6,6,0,4.74628825997536,5.52332086447343
