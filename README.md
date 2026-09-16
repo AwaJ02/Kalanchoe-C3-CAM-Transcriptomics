@@ -1,42 +1,77 @@
-# Kalanchoe-C3-CAM-Transcriptomics
-R-based transcriptomic analysis of the developmental C3-to-CAM transition in Kalanchoë fedtschenkoi across the diel cycle. MSc Bioinformatics dissertation project
-# Diel transcriptomic analysis of the developmental C3-to-CAM transition in Kalanchoë fedtschenkoi
+# Developmental and Diel Transcriptomic Reprogramming Associated
+with the C3-to-CAM Transition in Kalanchoë fedtschenkoi
 
 ## Overview
 
 This repository contains the R scripts, processed results and figures
-generated for an MSc Bioinformatics dissertation investigating
-transcriptional changes associated with the developmental transition
-from predominantly C3 photosynthesis in young LP1 leaves to established
-CAM in mature LP6 leaves of Kalanchoë fedtschenkoi.
+used for my MSc Bioinformatics dissertation.
 
-Gene expression was compared between LP1 and LP6 leaves at six diel
-sampling times (10, 14, 18, 22, 02 and 06 h).
+The project investigates developmental and diel transcriptional changes
+associated with the transition from predominantly C3 photosynthesis in
+young LP1 leaves to established Crassulacean Acid Metabolism (CAM) in
+mature LP6 leaves of Kalanchoë fedtschenkoi.
+
+## Experimental Design
+
+RNA-seq data consisted of 36 samples:
+
+- Two developmental stages: LP1 and LP6
+- Six diel timepoints: 10, 14, 18, 22, 02 and 06 h
+- Three biological replicates per developmental stage × timepoint
 
 ## Analysis
 
-The analysis includes:
+The bioinformatics workflow included:
 
-1. RNA-seq count-data processing
-2. DESeq2 differential expression analysis
-3. LP6 vs LP1 contrasts at each diel timepoint
-4. DEG summarisation
-5. KEGG pathway enrichment
-6. Functional annotation of CAM-associated genes
-7. PEPC, PPCK and PPDK analysis
-8. Developmental stage × time interaction testing
-9. Priority CAM candidate identification
-10. Generation of dissertation figures
+1. RNA-seq count-data preparation
+2. DESeq2 normalisation and differential-expression analysis
+3. LP6 versus LP1 comparisons at each diel timepoint
+4. Developmental stage × time interaction analysis
+5. Functional gene annotation
+6. KEGG pathway enrichment
+7. KEGG metabolic pathway mapping
+8. Analysis of CAM-associated genes
+9. Candidate-gene prioritisation
 
-## Repository structure
+Differentially expressed genes were defined using:
 
-- `scripts/` – R analysis scripts
-- `data/` – input and processed datasets
-- `results/` – statistical analysis outputs
-- `figures/` – final dissertation figures
-- `supplementary/` – additional supporting results
+adjusted p-value < 0.05 and |log2 fold change| > 1.
+
+## Repository Structure
+
+`scripts/` – R scripts used for the analyses  
+`data/` – metadata and information describing input datasets  
+`results/` – processed analysis outputs and summary tables  
+`figures/` – figures used in the dissertation  
+`supplementary/` – additional pathway maps and supporting analyses
+
+## Key Findings
+
+- 7,033–10,743 genes were differentially expressed between LP1 and LP6,
+  depending on diel time.
+- 12,588 of 29,415 genes (42.79%) showed a significant developmental
+  stage × time interaction.
+- LP6-higher genes were enriched in pathways associated with carbon
+  fixation, carbon metabolism, carbohydrate metabolism and energy
+  metabolism.
+- KfGene007051-RA (PPDK) showed consistently higher expression in LP6
+  across all six diel timepoints.
+- PEPC and PPCK paralogues displayed contrasting developmental and
+  temporal expression patterns.
 
 ## Software
 
-Analysis was performed in R using packages including DESeq2,
-clusterProfiler, KEGGREST, dplyr, tidyr and ggplot2.
+Analyses were performed in R using packages including:
+
+- DESeq2
+- clusterProfiler
+- ggplot2
+
+KEGG Mapper was used to visualise differential expression within
+metabolic pathways.
+
+## Author
+
+Awa Jammeh  
+MSc Bioinformatics  
+University of Liverpool
