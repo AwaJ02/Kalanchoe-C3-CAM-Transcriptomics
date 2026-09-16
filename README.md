@@ -39,7 +39,7 @@ adjusted p-value < 0.05 and |log2 fold change| > 1.
 
 ## Repository Structure
 
-`scripts/` – R scripts used for the analyses  
+`scripts/` – R script used for the analyses  
 `data/` – metadata and information describing input datasets  
 `results/` – processed analysis outputs and summary tables  
 `figures/` – figures used in the dissertation  
